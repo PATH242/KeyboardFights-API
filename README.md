@@ -1,0 +1,2 @@
+# Keyboard Fights - Backend APIs
+This repository contains the backend APIs for the "Keyboard Fights" project, including the Dictionary Management API and the Stats Tracking API. The Dictionary Management API handles the creation, approval, and lifecycle management of dictionaries, while the Stats Tracking API monitors user performance and can generate detailed statistics.
